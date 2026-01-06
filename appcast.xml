@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ClickUp Timer Updates</title>
+        <link>https://github.com/LdesignMedia/xbar-plugin-clickup/releases</link>
+        <description>Updates for ClickUp Timer - macOS menu bar app for ClickUp time tracking</description>
+        <language>en</language>
+
+        <!-- Latest version -->
+        <item>
+            <title>Version 1.5.3</title>
+            <description><![CDATA[
+                <h2>What's New in 1.5.3</h2>
+                <ul>
+                    <li>Test release</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 17:07:44 +0100</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.3.zip"
+                sparkle:edSignature="ZBFqrYss9ThxkgV+TZ0qcw4ZEU/jSI/UhxCwYbKIF1IWO8nZ9504XGlhMZvodie/TnZB9IOYh5qbxbVXS/ISDQ=="
+                length="5072279"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.5.1</title>
+            <description><![CDATA[
+                <h2>What's New in 1.5.1</h2>
+                <ul>
+                    <li>Update test</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 16:59:55 +0100</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.5.1/ClickUpTimer.zip"
+                sparkle:edSignature="yYin3bxkXv7ggF6Kqu6c5oFJ6fAjpGGmdh2ANra/7L8WxVM3e5BBNvGNOuBnWbMrpj2wVcgZ+jRkS6TG1vUmBg=="
+                length="5072331"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.5.0</title>
+            <description><![CDATA[
+                <h2>What's New in 1.5.0</h2>
+                <ul>
+                    <li>test</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 16:55:37 +0100</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.5.0/ClickUpTimer.zip"
+                sparkle:edSignature="WMVgAOJN0ntX/EEAZJTWCQs6+NnNbJae8l9KcPLsMq93EaNKuvTl/Ole1dzgYBUEZbHthAob8OXfozu9CoE6Dw=="
+                length="5072340"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.4.10</title>
+            <description><![CDATA[
+                <h2>What's New in 1.4.10</h2>
+                <ul>
+                    <li>Testing update</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 16:40:59 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.10/ClickUpTimer.zip"
+                sparkle:edSignature="EgEIOeuGFDuj6Su0vF/ImXNZ3vvyys2pUXZ34ylX6JoyFzEqrU4b038aRK1wGglPA2LFDS0EdE911WADMNc/BA=="
+                length="5029729"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.4.8</title>
+            <description><![CDATA[
+                <h2>What's New in 1.4.8</h2>
+                <ul>
+                    <li>Test a new release auto update</li>                </ul>
+            ]]></description>
+            <pubDate>Sat, 03 Jan 2026 23:50:17 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.8/ClickUpTimer.zip"
+                sparkle:edSignature="8Ki370VU//JHxiYEiFPjjQTJe8s08QPqQami/YXeNOZSIdjZA/co9PkiSNuKxI1wryFJT6KuyMFIHd7a7jbEBA=="
+                length="5029992"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.4.7</title>
+            <description><![CDATA[
+                <h2>What's New in 1.4.7</h2>
+                <ul>
+                    <li>test</li>                </ul>
+            ]]></description>
+            <pubDate>Sat, 03 Jan 2026 23:39:35 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.7/ClickUpTimer.zip"
+                sparkle:edSignature="GIW+/EIo/E5kS3xIIPb0lIyedC/ciVaPhBDCgdIKzO/qjYRE+rm/8w4UDRBBBj3iQ6F627P+i8F8JK7Lep8yDQ=="
+                length="5029999"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.4.4</title>
+            <description><![CDATA[
+                <h2>What's New in 1.4.4</h2>
+                <ul>
+                    <li>testing</li>                </ul>
+            ]]></description>
+            <pubDate>Sun, 28 Dec 2025 16:47:07 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.4/ClickUpTimer.zip"
+                sparkle:edSignature="XhCIVH0vNJRWgioJ2cScquSUsfsOwZvlYMlqtFNhepBWv8Q+6413ioAklS7bndsfWun80B8Q2z73yQuuzgMtDA=="
+                length="1289275"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.4.3</title>
+            <description><![CDATA[
+                <h2>What's New in 1.4.3</h2>
+                <ul>
+                    <li>testing release</li>                </ul>
+            ]]></description>
+            <pubDate>Sun, 28 Dec 2025 16:43:41 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.3/ClickUpTimer.zip"
+                sparkle:edSignature="cmzcQ2fcQLM5GrLmO0/W3lIvsd7uH+FnuEjj0t1oTh8NduvfJoPCVU9FrArc5Fes+K8oAuhkkLKpun318ScDCQ=="
+                length="1289277"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.0.1</title>
+            <description><![CDATA[
+                <h2>What's New in 1.0.1</h2>
+                <ul>
+                    <li>Auto update release</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 28 Dec 2025 14:30:00 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.0.1/ClickUpTimer.zip"
+                sparkle:edSignature="BJkBSboW03G5kmyG8QtCC/EDRM/2/SVEuZk6ioZRd0+Hqa7xTG53UyeX7ydkAy3LH9NZjDSZQLhMuLPg7PRNDw=="
+                length="1274982"
+                type="application/octet-stream"/>
+        </item>
+
+        <!-- Previous versions -->
+        <item>
+            <title>Version 1.0.0</title>
+            <description><![CDATA[
+                <h2>Initial Release</h2>
+                <ul>
+                    <li>Menu bar timer display with active timer tracking</li>
+                    <li>ClickUp API integration for time entries</li>
+                    <li>Planning integration with tools.webv.nl</li>
+                    <li>Silent mode for notification control</li>
+                    <li>Automatic update support via Sparkle</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.0.0/ClickUpTimer.zip"
+                sparkle:edSignature=""
+                length="0"
+                type="application/octet-stream"/>
+        </item>
+
+    </channel>
+</rss>

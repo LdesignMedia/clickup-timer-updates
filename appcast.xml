@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.5.14</title>
+            <description><![CDATA[
+                <h2>What's New in 1.5.14</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 18:41:05 +0100</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.5.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.14.zip"
+                sparkle:edSignature="iwKRG+qmkKDVDr6D7LMsAwfAeM5txYnzyQtZk/JGVd9MJEKqlEjj4fR4CB+jYsGzaJBOA+WNmo+RD6FE+nbhDw=="
+                length="5085069"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.5.13</title>
             <description><![CDATA[
                 <h2>What's New in 1.5.13</h2>
@@ -17,7 +34,7 @@
             <pubDate>Tue, 06 Jan 2026 18:29:35 +0100</pubDate>
             <sparkle:version>36</sparkle:version>
             <sparkle:shortVersionString>1.5.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.13.zip"
                 sparkle:edSignature="4ThBuzlE95J+mk5+iMGXlPSUQUzDkTRgwPJL39OBiyLHHdYpaTZQTXv96ImUz4NbnxYfO966nyuEqUbq57mMBQ=="
@@ -34,7 +51,7 @@
             <pubDate>Tue, 06 Jan 2026 18:24:53 +0100</pubDate>
             <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>1.5.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.12.zip"
                 sparkle:edSignature="YsuSuSLRs9KP7da08eJ5u6nHUJmOXf1dxvKKRgT396Uw8Fzzq04QXOL7gCg8olHrlkiYyud6ytOrWFHhPSvbAw=="
@@ -51,7 +68,7 @@
             <pubDate>Tue, 06 Jan 2026 17:38:01 +0100</pubDate>
             <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>1.5.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.10.zip"
                 sparkle:edSignature="1Osc3VZvGOMuENa7h0z8QSOpIYeUgiO15bL70bzosoSCsZidIHXOZKDeu8ar5pXa37imlSzD2riAVLS/K9BoBw=="
@@ -68,7 +85,7 @@
             <pubDate>Tue, 06 Jan 2026 17:33:05 +0100</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.5.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.9.zip"
                 sparkle:edSignature="ESv+ztICU9d41vw5/iSE3YPuOEgXxAU0/gb3dAOqnINlnrj5qfbqilf3awm1+l/aUgJZalfA2c+JUUYErGvQBA=="
@@ -85,7 +102,7 @@
             <pubDate>Tue, 06 Jan 2026 17:23:52 +0100</pubDate>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.6.zip"
                 sparkle:edSignature="1gBnLfUoO1fXsYhBjfxX5PrLvU+JTRg6QglJLIYL4WAptDpiquXM8UT20F1yBCOr6g9wfHNEaP0DBfHYwFS4BA=="
@@ -102,7 +119,7 @@
             <pubDate>Tue, 06 Jan 2026 17:21:40 +0100</pubDate>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.5.zip"
                 sparkle:edSignature="xLy/jB14U2BKVVNc3rLjYPr6DOtfHi9DMjk4bXfg2X2Ah1yW2Qh4zGzreEYWUDhKnd9NDjYQ9f7ub2a6MjNDCQ=="
@@ -119,7 +136,7 @@
             <pubDate>Tue, 06 Jan 2026 17:17:22 +0100</pubDate>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.4.zip"
                 sparkle:edSignature="fIwkOB9u1GRA4juwhM4iHEpOoojgPz8bByFsTcOZW5PPlIQ5Cz8Exhobf2H475v5SFRhYbWR6EKYZdfHJcRBAg=="
@@ -136,7 +153,7 @@
             <pubDate>Tue, 06 Jan 2026 17:13:20 +0100</pubDate>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.4.zip"
                 sparkle:edSignature="jIAYrEoY/6hF2xZ9UC/ZxkWwqpbLZMztL1sCtEF203758X7v41jQC4tn7c1rpYiOURSKMhAsA94GxsEG0P7SAw=="
@@ -153,7 +170,7 @@
             <pubDate>Tue, 06 Jan 2026 17:09:40 +0100</pubDate>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.3.zip"
                 sparkle:edSignature="qt/Ntpt+XMuJSKcNpEhdorp3EKttZkLVkbOe8qHHxA8+Pj5Qjga0gULHs+bv6rRBaFNx1Y9ZZMLjxhuIi2AECw=="
@@ -170,7 +187,7 @@
             <pubDate>Tue, 06 Jan 2026 17:07:44 +0100</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.3.zip"
                 sparkle:edSignature="ZBFqrYss9ThxkgV+TZ0qcw4ZEU/jSI/UhxCwYbKIF1IWO8nZ9504XGlhMZvodie/TnZB9IOYh5qbxbVXS/ISDQ=="
@@ -187,7 +204,7 @@
             <pubDate>Tue, 06 Jan 2026 16:59:55 +0100</pubDate>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.5.1/ClickUpTimer.zip"
                 sparkle:edSignature="yYin3bxkXv7ggF6Kqu6c5oFJ6fAjpGGmdh2ANra/7L8WxVM3e5BBNvGNOuBnWbMrpj2wVcgZ+jRkS6TG1vUmBg=="
@@ -204,7 +221,7 @@
             <pubDate>Tue, 06 Jan 2026 16:55:37 +0100</pubDate>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.5.0/ClickUpTimer.zip"
                 sparkle:edSignature="WMVgAOJN0ntX/EEAZJTWCQs6+NnNbJae8l9KcPLsMq93EaNKuvTl/Ole1dzgYBUEZbHthAob8OXfozu9CoE6Dw=="
@@ -221,7 +238,7 @@
             <pubDate>Tue, 06 Jan 2026 16:40:59 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.4.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.10/ClickUpTimer.zip"
                 sparkle:edSignature="EgEIOeuGFDuj6Su0vF/ImXNZ3vvyys2pUXZ34ylX6JoyFzEqrU4b038aRK1wGglPA2LFDS0EdE911WADMNc/BA=="
@@ -238,7 +255,7 @@
             <pubDate>Sat, 03 Jan 2026 23:50:17 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.8/ClickUpTimer.zip"
                 sparkle:edSignature="8Ki370VU//JHxiYEiFPjjQTJe8s08QPqQami/YXeNOZSIdjZA/co9PkiSNuKxI1wryFJT6KuyMFIHd7a7jbEBA=="
@@ -255,7 +272,7 @@
             <pubDate>Sat, 03 Jan 2026 23:39:35 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.7/ClickUpTimer.zip"
                 sparkle:edSignature="GIW+/EIo/E5kS3xIIPb0lIyedC/ciVaPhBDCgdIKzO/qjYRE+rm/8w4UDRBBBj3iQ6F627P+i8F8JK7Lep8yDQ=="
@@ -272,7 +289,7 @@
             <pubDate>Sun, 28 Dec 2025 16:47:07 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.4/ClickUpTimer.zip"
                 sparkle:edSignature="XhCIVH0vNJRWgioJ2cScquSUsfsOwZvlYMlqtFNhepBWv8Q+6413ioAklS7bndsfWun80B8Q2z73yQuuzgMtDA=="
@@ -289,7 +306,7 @@
             <pubDate>Sun, 28 Dec 2025 16:43:41 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.4.3/ClickUpTimer.zip"
                 sparkle:edSignature="cmzcQ2fcQLM5GrLmO0/W3lIvsd7uH+FnuEjj0t1oTh8NduvfJoPCVU9FrArc5Fes+K8oAuhkkLKpun318ScDCQ=="
@@ -307,7 +324,7 @@
             <pubDate>Sat, 28 Dec 2025 14:30:00 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.0.1/ClickUpTimer.zip"
                 sparkle:edSignature="BJkBSboW03G5kmyG8QtCC/EDRM/2/SVEuZk6ioZRd0+Hqa7xTG53UyeX7ydkAy3LH9NZjDSZQLhMuLPg7PRNDw=="
@@ -331,7 +348,7 @@
             <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/LdesignMedia/xbar-plugin-clickup/releases/download/v1.0.0/ClickUpTimer.zip"
                 sparkle:edSignature=""

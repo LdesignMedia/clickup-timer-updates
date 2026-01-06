@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.5.15</title>
+            <description><![CDATA[
+                <h2>What's New in 1.5.15</h2>
+                <ul>
+                    <li>Update ClickUpTimer with app usage tracking and day planning features</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 06 Jan 2026 23:18:55 +0100</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.5.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.15.zip"
+                sparkle:edSignature="qRhpUGjUtKLuanmA+NnzN32UFTtb570xOD/4pdUDnoEAzEY2+OWcuEQiPiAdfWQkcHwTwja8cltY8v1sy2D5Bg=="
+                length="5222345"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.5.14</title>
             <description><![CDATA[
                 <h2>What's New in 1.5.14</h2>

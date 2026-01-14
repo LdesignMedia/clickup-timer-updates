@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.5.16</title>
+            <description><![CDATA[
+                <h2>What's New in 1.5.16</h2>
+                <ul>
+                    <li>Add Spark email forwarding service with ClickUp integration</li>                </ul>
+            ]]></description>
+            <pubDate>Wed, 14 Jan 2026 09:23:30 +0100</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.5.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.5.16.zip"
+                sparkle:edSignature="8WKTHE4unK8QQfV9/PjlTJ3HgZjNPsCZLb9HkWht3ZPBNqzsJ3Za0ncOWHf+bUSpSnJ6DA95AYY5VsbTW7dUCg=="
+                length="5312458"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.5.15</title>
             <description><![CDATA[
                 <h2>What's New in 1.5.15</h2>

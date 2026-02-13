@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.6.0</title>
+            <description><![CDATA[
+                <h2>What's New in 1.6.0</h2>
+                <ul>
+                    <li>Improve window context detection and accessibility warning flow</li>                </ul>
+            ]]></description>
+            <pubDate>Fri, 13 Feb 2026 14:57:24 +0100</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.6.0.zip"
+                sparkle:edSignature="HjDVCE/BawSxg4ylk7SOQ8sXzocI9uR48NQc89eLsE/ORuU2r+45tVXJAw4RPXafsd5Gh2rOkhDW5D+POgU2DQ=="
+                length="5413123"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.5.18</title>
             <description><![CDATA[
                 <h2>What's New in 1.5.18</h2>

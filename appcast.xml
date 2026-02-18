@@ -8,6 +8,32 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.7.0</title>
+            <description><![CDATA[
+                <h2>What's New in 1.7.0</h2>
+                <ul>
+                    <li>Improve timesheet specificity and reduce fragmented AI entries</li>
+                    <li>Improve timesheet context inference and AI prompt output</li>
+                    <li>Improve AI summary with hourly timetable and prompt tuning</li>
+                    <li>Add review notes, package lockfile, and n8n workflow export</li>
+                    <li>Update archived and exported app build artifacts</li>
+                    <li>Expand activity grouping summaries and refresh dashboard breakdown UI</li>
+                    <li>Unify task row quick actions across planning, search, and worklog</li>
+                    <li>Improve ClickUp task retrieval and harden email forwarding flow</li>
+                    <li>Add tracking pause controls and tune context capture intervals</li>
+                    <li>Reduce app tracking CPU overhead with caching and throttling</li>                </ul>
+            ]]></description>
+            <pubDate>Wed, 18 Feb 2026 21:39:52 +0100</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.7.0.zip"
+                sparkle:edSignature="nToWVWzxFkoo+KYAWoOuESrFMxKdT6GOyRilujxbPT5679noWobLs00rtzlueCzsygDzv0C5WgZ3heDX2TQfAA=="
+                length="5477437"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.6.0</title>
             <description><![CDATA[
                 <h2>What's New in 1.6.0</h2>

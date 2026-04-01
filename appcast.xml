@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.7.2</title>
+            <description><![CDATA[
+                <h2>What's New in 1.7.2</h2>
+                <ul>
+                    <li>Improve ClickUp task search speed with stale-while-revalidate cache</li>                </ul>
+            ]]></description>
+            <pubDate>Wed, 01 Apr 2026 23:52:24 +0200</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.7.2.zip"
+                sparkle:edSignature="WTOjRb5+SSDOcabQAqXAq9MA4vbCqjYi86mcq4XY9lf1DaokwPsWpUM9QYGbTOAbHgNK+jSxDE+C58l9w81CCg=="
+                length="5505263"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.7.1</title>
             <description><![CDATA[
                 <h2>What's New in 1.7.1</h2>

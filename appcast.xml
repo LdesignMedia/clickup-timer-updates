@@ -8,6 +8,26 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.7.5</title>
+            <description><![CDATA[
+                <h2>What's New in 1.7.5</h2>
+                <ul>
+                    <li>fix: Additional code review fixes for worklog timeline</li>
+                    <li>fix: Code review fixes for worklog timeline</li>
+                    <li>feat: Redesign worklog as chronological timeline with gap detection</li>
+                    <li>feat: Add manual time entry with duration text input</li>                </ul>
+            ]]></description>
+            <pubDate>Thu, 02 Apr 2026 22:29:11 +0200</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.7.5.zip"
+                sparkle:edSignature="7Ao+cijvYPrxP4V4TbB+XKl2rmxXx8GGlcMeBVL0j4wTE2duaqsILMP+xAblTf0Cp9K+soIhtEJkDkBDI22FAA=="
+                length="5554721"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.7.4</title>
             <description><![CDATA[
                 <h2>What's New in 1.7.4</h2>

@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.7.7</title>
+            <description><![CDATA[
+                <h2>What's New in 1.7.7</h2>
+                <ul>
+                    <li>fix: Improve worklog entry readability — smaller gray time, black task name with tooltip</li>                </ul>
+            ]]></description>
+            <pubDate>Thu, 02 Apr 2026 22:40:19 +0200</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.7.7.zip"
+                sparkle:edSignature="yDdFlAdo2QX08UXlK4Mxf3sfPhEwSalgV/7RuFV2DEXj0UR0RGXlxJnlTb8dkVzsJ3su7VbWczUlOPTsA6WNAA=="
+                length="5555169"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.7.6</title>
             <description><![CDATA[
                 <h2>What's New in 1.7.6</h2>

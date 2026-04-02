@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.8.4</title>
+            <description><![CDATA[
+                <h2>What's New in 1.8.4</h2>
+                <ul>
+                    <li>feat: Enhanced task picker with ClickUp API search and configurable menu bar</li>                </ul>
+            ]]></description>
+            <pubDate>Thu, 02 Apr 2026 23:43:13 +0200</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>1.8.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.8.4.zip"
+                sparkle:edSignature="fEH131bNLrgfc49wlJKOAWOxvW3gBNagY1NZOFZ/Rf/wGHWBs1x7KkFJZ4Bax4oRb9xSmeaUf7ZhR9XRWXvhDA=="
+                length="5578631"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.8.3</title>
             <description><![CDATA[
                 <h2>What's New in 1.8.3</h2>

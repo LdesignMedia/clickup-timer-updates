@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.7.3</title>
+            <description><![CDATA[
+                <h2>What's New in 1.7.3</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>                </ul>
+            ]]></description>
+            <pubDate>Thu, 02 Apr 2026 14:36:25 +0200</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.7.3.zip"
+                sparkle:edSignature="YvWMM6Oay5gWdWSp3qdkUHylO6WxAePLV0+U1V/QakepORFDFS6IUGCbZc7CFQPX1Aw5H6Tq3rmmgahyxUEJCw=="
+                length="5518928"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.7.2</title>
             <description><![CDATA[
                 <h2>What's New in 1.7.2</h2>

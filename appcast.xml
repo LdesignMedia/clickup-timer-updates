@@ -8,6 +8,25 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.9.2</title>
+            <description><![CDATA[
+                <h2>What's New in 1.9.2</h2>
+                <ul>
+                    <li>Improve menu bar timer status colors</li>
+                    <li>chore: stop tracking build output and Xcode user state</li>
+                    <li>chore: add .gitignore for build and editor artifacts</li>                </ul>
+            ]]></description>
+            <pubDate>Mon, 24 Aug 2026 14:35:33 +0200</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.9.2.zip"
+                sparkle:edSignature="GNjZydHnRwqaU+B1mMBTAXUaMmpkuIE4GVpFKEVaFHOw6NLFOhDmsMrdjYuEn+TpVgSSSJz7XV0J4XRbtQECBA=="
+                length="5667904"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.9.1</title>
             <description><![CDATA[
                 <h2>What's New in 1.9.1</h2>

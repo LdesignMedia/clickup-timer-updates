@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.9.4</title>
+            <description><![CDATA[
+                <h2>What's New in 1.9.4</h2>
+                <ul>
+                    <li>Keep active timer details visible in menu bar</li>                </ul>
+            ]]></description>
+            <pubDate>Mon, 24 Aug 2026 15:25:25 +0200</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>1.9.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.9.4.zip"
+                sparkle:edSignature="VrpUf/VJiO6C6547v2NBmSXSMdSBW4vOJKWcHr7zXI6ED8nKsFBoxgHLqaX+T4TCO0iRIDjob6ryDdVolIbGAw=="
+                length="5666629"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.9.3</title>
             <description><![CDATA[
                 <h2>What's New in 1.9.3</h2>

@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.10.2</title>
+            <description><![CDATA[
+                <h2>What's New in 1.10.2</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 13 Oct 2026 10:18:30 +0200</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.10.2.zip"
+                sparkle:edSignature="EpafaWMs7z+OC0a4+zItgF1nLFzW+LTRImxS3KRD8hbpD7Dwz/nGvdqpHG5mrfwgWX6bdp5/wgQZNqOX2DirCw=="
+                length="5802086"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.10.1</title>
             <description><![CDATA[
                 <h2>What's New in 1.10.1</h2>

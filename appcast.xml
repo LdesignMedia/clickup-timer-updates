@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.10.1</title>
+            <description><![CDATA[
+                <h2>What's New in 1.10.1</h2>
+                <ul>
+                    <li>Reduce timer redraws and focus capture overhead</li>                </ul>
+            ]]></description>
+            <pubDate>Tue, 13 Oct 2026 10:12:33 +0200</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.10.1.zip"
+                sparkle:edSignature="5tntOrR2N+gURuRUSQgSy0EDMGtISmme6i4Per+kRcJplCje/asVzSbnMV/bQ0snv9+ImhQ6vbON2CuW5nCBCw=="
+                length="5802048"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.10.0</title>
             <description><![CDATA[
                 <h2>What's New in 1.10.0</h2>

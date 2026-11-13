@@ -8,6 +8,27 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.11.0</title>
+            <description><![CDATA[
+                <h2>What's New in 1.11.0</h2>
+                <ul>
+                    <li>Add Octo as the task source for timers, time entries, task search, assigned comments and planning.</li>
+                    <li>Connect from Octo via Profile > Apps > Connect Octo Timer; store the connection token in macOS Keychain.</li>
+                    <li>Show Octo branding and open task and dashboard links in Octo when connected.</li>
+                    <li>Keep ClickUp available when Octo is disconnected.</li>
+                    <li>Fix manual time entry search keeping its popover open.</li>                </ul>
+            ]]></description>
+            <pubDate>Fri, 13 Nov 2026 10:42:52 +0100</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.11.0.zip"
+                sparkle:edSignature="KhgKOJdgx4+/V5XRDzcbBR4Znd1FFBSB5zLSXHIG7SveKS8wOigmG8vKRtIKh0C+/BrROIX1/5qxgF8GgkfCCQ=="
+                length="3607060"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.10.3</title>
             <description><![CDATA[
                 <h2>What's New in 1.10.3</h2>

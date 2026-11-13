@@ -8,6 +8,23 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 1.11.1</title>
+            <description><![CDATA[
+                <h2>What's New in 1.11.1</h2>
+                <ul>
+                    <li>Fix default Octo links to use octo.ldesignmedia.nl</li>                </ul>
+            ]]></description>
+            <pubDate>Fri, 13 Nov 2026 10:49:46 +0100</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/LdesignMedia/clickup-timer-updates/raw/main/downloads/ClickUpTimer-1.11.1.zip"
+                sparkle:edSignature="0VfSqKsg2YKTvVFxBP29crJ642step/PDuNPwZ7oGgwzwyAuz2n7KHzVt5OpfDS/8FdiLeK1GFxyjN2BMLsMDw=="
+                length="3607221"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.11.0</title>
             <description><![CDATA[
                 <h2>What's New in 1.11.0</h2>
